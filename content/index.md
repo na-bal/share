@@ -2,6 +2,9 @@
 title: Welcome to Quartz
 
 ---
+
+![[unnamed-1.jpg]]
+
 Синхронизайия 23 07 
 
 Актуальная запись! 
@@ -11,7 +14,6 @@ title: Welcome to Quartz
 ыы
  Что нового? 
  
-
 
 
 
